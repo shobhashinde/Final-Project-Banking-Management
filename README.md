@@ -1,0 +1,1 @@
+The SQL Bank Management System is a comprehensive database application designed to manage banking operations efficiently. This project aims to provide a robust solution for handling customer accounts, transactions, and banking services using SQL as the primary database management system.
