@@ -1,4 +1,4 @@
-# Bank Management System - CREATE and INSERT Only
+# Bank Management System - Database Schema Documentation
 
 This repository contains SQL scripts for defining the structure of a bank management system and populating it with initial data using only 
 `CREATE` and `INSERT` commands.
@@ -8,5 +8,4 @@ It provides a clean and simple structure for defining the database schema and ad
 You can expand this by adding more tables or sample data as needed.
 
 ## Files
-
 - `P1.sql`: Contains SQL commands to create necessary tables and insert sample data into the tables for the bank management system.
