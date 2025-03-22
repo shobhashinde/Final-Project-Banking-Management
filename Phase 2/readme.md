@@ -21,3 +21,6 @@ This project involves managing a banking system using SQL. The database includes
 5. **Aggregate Functions**: Functions like `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX` are used to perform calculations on data.
 6. **String Operations**: Functions like `UPPER`, `LOWER`, `CONCAT`, and `SUBSTRING` are used to manipulate string data.
 7. **Conditional Logic**: `CASE` statements are used to apply conditional logic when updating or retrieving data.
+
+## Conclusion
+This project demonstrates the use of SQL to manage a comprehensive banking system. The scripts cover a wide range of operations, from basic data retrieval to complex data manipulation and aggregation. The database is designed to handle various aspects of banking operations, ensuring data integrity and efficient management.
