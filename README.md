@@ -1,6 +1,8 @@
 # Banking Management System Project
 
-![](https://media.licdn.com/dms/image/v2/D4D12AQEDyCjKlGVL1A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693251468802?e=1747872000&v=beta&t=IxVSpm4lj5vm477CcX3gXWYO-eLFDznuUkLnX9C8LIw)
+<p align ="center">
+<img src= "https://media.licdn.com/dms/image/v2/D4D12AQEDyCjKlGVL1A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693251468802?e=1747872000&v=beta&t=IxVSpm4lj5vm477CcX3gXWYO-eLFDznuUkLnX9C8LIw" width = "500">
+</p>
 
 ## Overview
 The **Banking Management System** is a comprehensive project designed to manage and analyze banking operations using SQL. The project is divided into multiple phases, each focusing on different aspects of database management, from basic data retrieval to advanced SQL features like stored procedures, triggers, and transaction control. The system handles various banking entities such as bank details, branches, customers, accounts, loans, transactions, and investments, ensuring efficient data management and insightful reporting.
